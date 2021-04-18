@@ -1,0 +1,1 @@
+worker: python spotify.py $PORT
